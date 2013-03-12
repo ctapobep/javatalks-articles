@@ -35,11 +35,22 @@
   </build>
   <profiles>
     <profile>
-      <id>integration-test</id>
+      <id>component-test</id>
       <properties>
-        <test.sourceDirectory>${project.basedir}/src/integration-test/java</test.sourceDirectory>
-        <test.resourceDirectory>${project.basedir}/src/integration-test/resources</test.resourceDirectory>
+        <test.sourceDirectory>${project.basedir}/src/component-test/java</test.sourceDirectory>
+        <test.resourceDirectory>${project.basedir}/src/component-test/resources</test.resourceDirectory>
+      </properties>
+    </profile>
+    <profile>
+      <id>system-test</id>
+      <properties>
+        <test.sourceDirectory>${project.basedir}/src/system-test/java</test.sourceDirectory>
+        <test.resourceDirectory>${project.basedir}/src/system-test/resources</test.resourceDirectory>
       </properties>
     </profile>
   </profiles>
 ```
+Заметьте, что в относительно небольшом куске конфигурации мы описали 3 вида тестов:
+* Модульные: `mvn test`
+* Компонентные: `mvn test -Dcomponent-test`
+* Системные: `mvn test -Dsystem-test`
