@@ -2,17 +2,17 @@
 
 [InfoQ Lecture from Chuck Rossi](http://www.infoq.com/presentations/Facebook-Release-Process) - Release Engineer at Facebook:
 - 50-300 commits every day
-- ~30 teams
-- Release on every Thuesday
+- ~30 teams, 800 people
+- *Release twice a day*
 - Have a person who knows the order of what's released - Release Engineer
 - They have www.latest.facebook.com - changes that are built everyday and are 'released' to own facebook personnel (Dog Fooding)
 - "Report a Bug" functionality is easily accessible while Dog Fooding which gathers all the metrics and possible data for the page
 - Preproduction version (www.inyour.facebook.com) where devs test changes together with other changes by others
 - Oncall dury - someone whom you contact from dev teams if you find issues
 - Branching
- - Shared trunk where everyone commits.
- - Latest branch where only a Gatekeeper can commit. He gathers changes continuously from trunk and commit them into 'latest'. There are 50-300 cherry picks every day.
- - Release branch that gets replaced with new branch on every release.
+ - Shared trunk where everyone.
+ - Release branch that gets 50-300 commits every day. It is replaced with 'latest' branch every week (because cherry picks divert the VCS history and you need at some point a full merge).
+ - Latest branch is created every week. It gets tested for a day and a half and then relpaces Release branch.
 - Tools:
  - A single IRC for everyone in dev
  - Tools that shows status on what was merged or not
