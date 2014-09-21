@@ -40,6 +40,7 @@ So last years it became clear that it's more important to deliver a successful p
 The last point on technical vs. business skills: our purpose as engineers is to make money for the employer. This can be done either by reducing costs or by creating new business value. And thus:
 - With poor technical skills and good business knowledge you're creating a software that makes money
 - With good technical skills and poor business knowledge you're creating a software that reduces costs, but doesn't provide as much business value.
+
 And therefore by caring about business you're adding new value and by being a good programmer you reduce cost. Combine these traits, know when to write good and when to write fast. And be twice as effective!
 
 **How do you learn if you care about business?** Of course in order to be a good programmer, you have to learn new stuff and be up-to-date with technologies. A good rule on this - one new technology in the project is enough. It's much better to be home with your family than meeting New Year at work fixing bugs because of newly introduced tools.
