@@ -8,7 +8,7 @@ I was conducting webinars & tech sessions (both at work and on the internet), wr
 
 But this passion was leaving me. Gradually, year by year. First of all because I had another passion now - Continuous Deliver, and
 second - it started to seem that people who are well-educated in programming can harm projects dramatically. Here is the best example
-in my carrier that illustrates what I'm talking about:
+in my career that illustrates what I'm talking about:
 
 ----
 At some point of my life I decided to join a startup. It seemed to be a good option to me: they used modern technologies and frameworks and during the interview they asked me about best practices which was a promising sign. Moreover teleworking was really handy to me at that time. So here I am resigned from my regular job for the sake of intriguing startup. 
@@ -25,5 +25,19 @@ I don't want to say that well-written code is bad, I don't! And neither I defend
 
 But you may still say: "Hey, I always write high quality code that doesn't smell and I always spend weeks on careful designing, but my customer doesn't go broke! He still is happy with the results!". Well, that might be true. But first of all, customer doesn't necessarily live on the edge, it's pretty common for the customer to have big funds and even if your project doesn't bring any value, he still might be happy, he just doesn't notice ineffectiveness! And second - in the majority of cases the costs spent on the project development are much smaller than overall spendings on the business. Even if customer heavily relies on the software you work on, there is still plenty of stuff to care about: marketing, 3d party contracts, client-facing offices and personnel, taxes, transport, et cetera, et cetera. So in the end ineffective development might not be *that* important for the business.
 
-Then who cares? If I work a large wealthy company, what's the big deal if I'm ineffective? Here is my view on this:
-- 
+Then who cares? If I work a large wealthy company, what's the big deal if I'm ineffective? Here is my perspective on this:
+- There is a moral question: if you get paid, then you probably should be worth your money. This is not a big deal for many people though as most of us are selfish.
+- You probably want to get higher on the career ladder. It's more likely to get there if you try to help and make your company better. And it's less likely if you don't want to care about the business of your company.
+- Many of us like think of ourselves as professionals. And caring about your product success is another way of being professional. Such people are much more precious to the company than typical I-care-only-about-code engineers.
+- Most of the time we don't have such a freedom - we're put into frames, the resources (money, time) are not infinite. And then you start to care not only about quality of the code, but also about delivery and quality of the product. If you put too much accent on code quality, you're missing deadlines.
+
+Speaking about professionalism. It's weird to see how arrogant today's programmers are. We're so self-important, so self-important! [(c)](http://www.youtube.com/watch?v=7W33HRc1A6c#t=77) It's very common to hear a programmer mentioning how cool he is and how miserable was that employer he just had interview with. To me that's a STOP sign. If I were to notice such an arrogant behaviour from someone I interview, I wouldn't hire him no matter how cool he is technically. Because these people are selfish, they don't care about the product, they care about coding and getting money from this process. Keep in mind that a businessman doesn't care about source code - he needs a solution. And if you can't provide it, then you'd rather stop calling yourself a professional.
+
+I used to work in one outstaff company. It has a customer and even though officially we were employed for that company, we still worked on the customer. That was a very frustrating job - our off-shore team was much more experienced in programming, really strong team. Meanwhile on-site team was pretty weak technically. But this fact didn't matter for the customer, on-site team is always more important than off-shore. Why? They write code the way customer spends a lot of money for the maintenance afterwards, why the heck they are in charge of the project? That's again because albeit our off-shore team was experienced in programming, we were much weaker in the business we were providing service for. Only on-site team could talk directly to stake-holders, only on-site team knew what should be the result. Yes, they were writing an expensive-to-maintain code, but in the meanwhile they were solving business tasks! While we simply didn't have enough strings to pull and business knowledge to put into the work.
+
+The last point on technical vs. business skills: our purpose is to make money for the employer. This can be done either by reducing costs or by creating new business value. And thus:
+- With poor technical skills and good business knowledge you're creating a software that makes money
+- With good technical skills and poor business knowledge you're creating a software that reduces costs, but doesn't provide as much business value.
+And therefore by caring about business you're adding new value and by being a good programmer you reduce cost. Combine these traits, know when to write good and when to write fast. And be twice as effective!
+
+**How do you learn if you care about business?** Of course in order to be a good programmer, you have to learn new stuff and be up-to-date with technologies. A good rule on this - one new technology in the project is enough. It's much better to be home with your family than meeting New Year at work fixing bugs because of newly introduced tools.
