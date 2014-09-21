@@ -1,3 +1,5 @@
+Source: http://articles.javatalks.ru/articles/35
+
 Do you still think that high-quality programming skills, knowing SOLID principles, writing maintainable tests is enough for you to be
 called a professional? Let's elaborate this topic.
 
