@@ -15,7 +15,7 @@ I appealed to the customer who (surprise-surprise!) was an ex-developer with que
 - Team communicated once in a week, for that project that meant they worked couple of days and then waited several days for the meeting to share their thoughts. That's extremely ineffective.
 - They started with distributed storage, complex designing and performance in mind while there was nothing to optimize and refactor yet.
 
-But the customer, even though he was irritated by the fact that there was nothing ready by that time, was too involved into technical details. He was possessed by "we should implement it in a right way!". To me that was too ineffective for such a small-budget project. So call me a rat, but I left that sinking boat after 2 weeks of struggling. I denied to take money from the customer, I knew he'd need them in the near future. Couple of years have passed, but on their website I still see 'Coming soon..'.
+But the customer, even though he was irritated by the fact that there was nothing ready by that time, was too involved into technical details. He was possessed with "we should implement it in a right way!". To me that was too ineffective for such a small-budget project. So call me a rat, but I left that sinking boat after 2 weeks of struggling. I denied to take money from the customer, I knew he'd need them in the near future. Couple of years have passed, but on their website I still see 'Coming soon..'.
 
 ----
 
