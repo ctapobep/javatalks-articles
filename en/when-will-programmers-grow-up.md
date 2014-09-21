@@ -1,7 +1,7 @@
 Do you still think that high-quality programming skills, knowing SOLID principles, writing maintenable tests is enough for you to be
 called a professional? Let's elaborate this topic.
 
-When I was young and -stupid- passionate about high-quality programming, all my attention was drawn by maintenable, flexible
+When I was young and ~~stupid~~ passionate about high-quality programming, all my attention was drawn by maintenable, flexible
 easily readable code. I was reading hell a lot of literature on this - both books and articles. Later on I started to teach others. 
 I was conducting webinars & tech sessions (both at work and on the internet), writing articles and discussing these topics at 
 [JTalks](http://jtalks.org). And I still continue on this, though way less actively.
